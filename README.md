@@ -1,7 +1,7 @@
 ## Hi, I'm Sajib Hossain 👋
 
 <p>
-👑 I am a Web Developer <a href="https://sajib-hossain.vercel.app/">My Portfolio Webiste</a> <br> 
+👑 I am a Web Developer <a href="https://sajib-hossain.vercel.app/">My Portfolio website</a> <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p>
 
@@ -9,10 +9,11 @@
 
 ## 🚀 About Me
 
-I was introduced to programming when I wanted to create a book-selling website. However, I couldn't start my start-up, but since then, I have been exploring all sorts of technologies. <br><br>
-As a web developer, I enjoy bridging the gap between engineering and design — combining my technical knowledge with my keen eye for design to create a beautiful product. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences.
+I got my start programming when I started a book-selling website. Ever since then I have been learning and building everything I can get my hands on.
+<br><br>
+I enjoy bridging the gap between engineering and design — combining my technical knowledge with my keen eye for design to create a beautiful product. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences.
 
-## 👨‍💻 Skills & Experiance:
+## 👨‍💻 Skills & Experience:
 
 ✅ React Js <br>
 ✅ Next Js(familiar) <br>
