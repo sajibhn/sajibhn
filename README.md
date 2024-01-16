@@ -5,7 +5,7 @@
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p>
 
-![Profile views](https://gpvc.arturio.dev/sajibhn)
+![](https://komarev.com/ghpvc/?username=sajibhn)
 
 ## 🚀 About Me
 
